@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
     font-size: 16px;
     font-family: 'Oxygen', sans-serif;
@@ -33,7 +37,7 @@ body {
     font-weight: bold;
     font-size: 1.8em;
     text-shadow: 1px 1px 1px #222;
-    margin-top: 0;
+    margin-top: 22px;
     margin-bottom: 0;
     line-height: 0.75;
 }
@@ -56,10 +60,6 @@ body {
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid #7d1913;
 }
-
-
-/** END HEADER */
-
 
 /** HOME PAGE **/
 

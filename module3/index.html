@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Coursera Assignment Module 3</title>
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap.min1.css">
     <link rel="stylesheet" href="css/style.css">
     <link href="https://fonts.googleapis.com/css?family=Oxygen:400,300,700" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Abril+Fatface" rel="stylesheet">
@@ -15,7 +15,7 @@
 <body>
     <header>
         <nav id="header-nav" class="navbar navbar-default">
-            <div class="container">
+            <div class="container-fluid">
                 <div class="navbar-header">
                     <div class="navbar-brand">
                         <a href="index.html"><h1 id="top-heading">Food, LLC</h1></a>
@@ -29,15 +29,15 @@
                     </button>
                 </div>
 
-                <div id="collapsable-nav" class="collapse navbar-collapse">
-                    <ul id="nav-list" class="nav navbar-nav">
-                        <li>
+                <div id="collapsable-nav" class="navbar-collapse collapse" aria-expanded="false">
+                    <ul id="nav-list" class="nav navbar-nav navbar-right hidden-lg hidden-md hidden-sm">
+                        <li class="text-center">
                             <a href="#chicken-tile">Chicken</a>
                         </li>
-                        <li>
+                        <li class="text-center">
                             <a href="#beef-tile">Beef</a>
                         </li>
-                        <li>
+                        <li class="text-center">
                             <a href="#sushi-tile">Sushi</a>
                         </li>
                     </ul>

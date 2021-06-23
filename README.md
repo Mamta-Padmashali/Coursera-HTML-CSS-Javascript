@@ -13,9 +13,9 @@
 ## Module 4
 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md">Description</a>
 <br>
-<a href="#">Solution</a>
+<a href="https://mamta-padmashali.github.io/Coursera-HTML-CSS-Javascript/module4">Solution</a>
 
 ## Module 5
 <a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md">Description</a>
 <br>
-<a href="#">Solution</a>
+<a href="https://mamta-padmashali.github.io/Coursera-HTML-CSS-Javascript/module5">Solution</a>
